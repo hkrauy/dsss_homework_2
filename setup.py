@@ -6,5 +6,5 @@ setup(
     author="DSSS",
     author_email="henry.krauss@fau.de",
     packages=find_packages(),
-    install_requires=["random", "unittest"],
+    install_requires=["pip"],
 )
